@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there ![wave](https://user-images.githubusercontent.com/93100521/153715080-03edf928-3570-46a3-885b-74f4e11c4efb.gif)
 
-<!--
-**KangSolC/KangSolC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am glad you made it here 😊 My name is Hajar and I'm a computer science student from Morocco.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interests:
+- Web development.
+- UI/UX design.
+- Learning new languages.
+
+📫 Reach me by LinkedIn: www.linkedin.com/in/hajar-amakhzoun-69872b209
+
+
