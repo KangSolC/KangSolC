@@ -6,6 +6,6 @@ I am glad you made it here 😊 My name is Hajar and I'm *soon to be* a software
 - UI/UX design.
 - Calm Technology
 
-[📫](www.linkedin.com/in/hajar-amakhzoun) 
+(📫)[www.linkedin.com/in/hajar-amakhzoun]
 
 
