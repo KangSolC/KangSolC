@@ -9,6 +9,7 @@ My name is **Hajar** || **هجر** and I'm a *veeeery soon to be* software engin
 🌱 I'm currently interested in :
   - UI/UX design.
   - Calm Technology
+  - Assistive Technology
 
 [📫](https://www.linkedin.com/in/hajar-amakhzoun/)
 
